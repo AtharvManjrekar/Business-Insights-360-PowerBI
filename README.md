@@ -1,6 +1,8 @@
 # Business Insights 360 - Power BI Project
 📊 PBIX File:
 (https://drive.google.com/file/d/1JcbC_rqf2RXmdXsfdHnOTfqPq2X5GI87/view?usp=sharing)
+Visuals Screenshots:
+https://drive.google.com/drive/folders/1Z3AaIraWEDbIHK43EtMYCSynDGQgkMA_?usp=sharing
 ## Project Overview
 Business Insights 360 is an end-to-end Power BI dashboard designed to provide a unified view of business performance across Finance, Sales, Marketing, Supply Chain, and Executive functions.
 
